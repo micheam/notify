@@ -2,6 +2,8 @@
 
 デスクトップの通知センタにメッセージを表示するコマンド
 
+![screenshot](screenshot.png)
+
 ## Usage
 
 ポモドーロ:
